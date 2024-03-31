@@ -16,6 +16,8 @@ It is a plug-and-play module turning most community models into animation genera
 [Bo Dai](https://daibo.info)
 (*Corresponding Author)
 
+uytfg7ytrfdt
+
 <!-- [Arxiv Report](https://arxiv.org/abs/2307.04725) | [Project Page](https://animatediff.github.io/) -->
 [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2307.04725)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://animatediff.github.io/)
